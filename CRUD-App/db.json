@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "body": "dslkfaldskfladsf"
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    },
+    {
+      "id": "3",
+      "title": "another title 1",
+      "views": 300
+    },
+    {
+      "id": "4",
+      "title": "another title 2",
+      "views": 200
+    },
+    {
+      "id": "5",
+      "title": "another title 3",
+      "views": 200
+    },
+    {
+      "id": "3bf778ee-eccf-4ba6-8ef0-11716799023e",
+      "title": "test",
+      "body": "sdfasdfasdfasdf"
+    },
+    {
+      "id": "32fd25be-23d2-4894-a996-a2a80f675071",
+      "title": "asdfasdf",
+      "body": "asdfadsfadsf"
+    },
+    {
+      "id": "9f56b055-59bc-42d7-8d00-c0d86c403ddb",
+      "title": "ffff",
+      "body": "ffff"
+    }
+  ]
+}
