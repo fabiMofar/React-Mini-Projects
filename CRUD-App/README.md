@@ -1,4 +1,4 @@
-# Your Project Name
+# CRUD Project
 
 A CRUD (Create, Read, Update, Delete) React project using @tanstack/react-query, uuid, json-server, and react-router-dom.
 
